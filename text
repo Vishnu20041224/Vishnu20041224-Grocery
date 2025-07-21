@@ -1,0 +1,1324 @@
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/avocado.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>Redish 500g</h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹40</h5>
+                <p class="FPdicount m-0">₹60</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/potato.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>Potatos 1kg</h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹32.50</h5>
+                <p class="FPdicount m-0">₹40</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/ridge-gourd.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>Tomatos 1kg</h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹40</h5>
+                <p class="FPdicount m-0">₹50</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/apple.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>Broccoli </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹90</h5>
+                <p class="FPdicount m-0">₹110</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/beetroot.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>Green Beans 250g </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹30</h5>
+                <p class="FPdicount m-0">₹45</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/corianderleaves.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>Coriander Leaves</h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹15</h5>
+                <p class="FPdicount m-0">₹20</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/ladiesfinger.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>Ladies Finger</h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹40</h5>
+                <p class="FPdicount m-0">₹50</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/jamun.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>mushrooms</h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹40</h5>
+                <p class="FPdicount m-0">₹50</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/mushrooms.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>Broccoli </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹90</h5>
+                <p class="FPdicount m-0">₹110</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/mango.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>Green Beans 250g </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹30</h5>
+                <p class="FPdicount m-0">₹45</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/curry-leaves.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>Green Beans 250g </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹30</h5>
+                <p class="FPdicount m-0">₹45</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/fresho-litchi.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>litchi 250g </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹30</h5>
+                <p class="FPdicount m-0">₹45</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/garlic.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>litchi 250g </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹30</h5>
+                <p class="FPdicount m-0">₹45</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/ginger.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>litchi 250g </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹30</h5>
+                <p class="FPdicount m-0">₹45</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/varikatri.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>litchi 250g </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹30</h5>
+                <p class="FPdicount m-0">₹45</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/papaya.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>litchi 250g </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹30</h5>
+                <p class="FPdicount m-0">₹45</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/brinjal.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>litchi 250g </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹30</h5>
+                <p class="FPdicount m-0">₹45</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/kiwi-green.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>litchi 250g </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹30</h5>
+                <p class="FPdicount m-0">₹45</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/blueberry.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>litchi 250g </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹30</h5>
+                <p class="FPdicount m-0">₹45</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/cabbage.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>litchi 250g </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹30</h5>
+                <p class="FPdicount m-0">₹45</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/3-roses-natural-care-tea.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>litchi 250g </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹30</h5>
+                <p class="FPdicount m-0">₹45</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/tata-tea-kanan-devan-tea.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>litchi 250g </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹30</h5>
+                <p class="FPdicount m-0">₹45</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/taj-mahal-tea.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>litchi 250g </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹30</h5>
+                <p class="FPdicount m-0">₹45</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/3-roses-dust-tea.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>litchi 250g </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹30</h5>
+                <p class="FPdicount m-0">₹45</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/bru-instant-coffee.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>litchi 250g </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹30</h5>
+                <p class="FPdicount m-0">₹45</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/tata-coffee-grand.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>litchi 250g </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹30</h5>
+                <p class="FPdicount m-0">₹45</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/sunrise-instant-coffee-chicory-mix.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>litchi 250g </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹30</h5>
+                <p class="FPdicount m-0">₹45</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/nescafe-classic-100-pure-instant-coffee.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>litchi 250g </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹30</h5>
+                <p class="FPdicount m-0">₹45</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/chicken-malai-tikka-juicy-fresh.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>litchi 250g </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹30</h5>
+                <p class="FPdicount m-0">₹45</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/tandoori-chicken-juicy.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>litchi 250g </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹30</h5>
+                <p class="FPdicount m-0">₹45</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/chicken-curry-cut-without-skin-antibiotic-residue-free.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>litchi 250g </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹30</h5>
+                <p class="FPdicount m-0">₹45</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/chicken-hotdog-smoked-sausage.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>litchi 250g </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹30</h5>
+                <p class="FPdicount m-0">₹45</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/mutton-boneless.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>litchi 250g </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹30</h5>
+                <p class="FPdicount m-0">₹45</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/maggi-2-minute-noodles-masala.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>litchi 250g </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹30</h5>
+                <p class="FPdicount m-0">₹45</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="/Assets/featured products/britannia-marie-gold-biscuits.webp" alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>litchi 250g </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹30</h5>
+                <p class="FPdicount m-0">₹45</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featuredProduct p-2">
+    <div>
+        <img src="https://www.bbassets.com/media/uploads/p/l/1212774-2_4-lays-potato-chips-indias-magic-masala.jpg"
+            alt="">
+        <div class="like p-1">
+            <!-- <i class="fa-solid fa-heart" style="color: #ff0000;"></i> -->
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+
+    <div>
+        <p>Vegetables</p>
+        <h6>litchi 250g </h6>
+        <img src="/Assets/featured products/rating.png" alt="">
+
+        <p>By Mr.food</p>
+        <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <h5>₹30</h5>
+                <p class="FPdicount m-0">₹45</p>
+            </div>
+            <div>
+                <button><img src="/Assets/featured products/shopping-cart.png" alt="">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<!-- -->
+
+            <div class="DBSproduct">
+                <div><img src="https://www.bbassets.com/media/uploads/p/l/10000293_17-fresho-amla.jpg" alt=""></div>
+                <span>Coffe & teas</span>
+                <div class="d-flex align-items-center justify-content-between">
+                    <h6>Coffe 1kg</h6>
+                    <img src="/Assets/Daily Best Sells/rating.png" alt="">
+                </div>
+                <p class="m-0">By <span>Mr.food</span></p>
+                <div class="d-flex align-items-center gap-3">
+                    <span class="DBSprice">₹150</span>
+                    <span class="DBSdiscount">₹200</span>
+                </div>
+                <button class="">
+                    <img src="/Assets/Daily Best Sells/shopping-cart.png" alt="">
+                    <span>Add to Cart</span>
+                </button>
+                <div class="DBSsave">
+                    Save 10%
+                </div>
+            </div>
+
+            <div class="DBSproduct">
+                <div><img src="https://www.bbassets.com/media/uploads/p/l/40004992_16-fresho-sweet-corn.jpg" alt="">
+                </div>
+                <span>Meat</span>
+                <div class="d-flex align-items-center justify-content-between">
+                    <h6>Halal Sausage </h6>
+                    <img src="/Assets/Daily Best Sells/rating.png" alt="">
+                </div>
+                <p class="m-0">By <span>Mr.food</span></p>
+                <div class="d-flex align-items-center gap-3">
+                    <span class="DBSprice">₹500</span>
+                    <span class="DBSdiscount">₹600</span>
+                </div>
+                <button class="">
+                    <img src="/Assets/Daily Best Sells/shopping-cart.png" alt="">
+                    <span>Add to Cart</span>
+                </button>
+                <div class="DBSsave">
+                    Save 10%
+                </div>
+            </div>
+
+            <div class="DBSproduct">
+                <div><img
+                        src="https://www.bbassets.com/media/uploads/p/l/40022640_16-fresho-capsicum-green-organically-grown.jpg"
+                        alt=""></div>
+                <span>Coffe & Teas</span>
+                <div class="d-flex align-items-center justify-content-between">
+                    <h6>Green Tea 250g</h6>
+                    <img src="/Assets/Daily Best Sells/rating.png" alt="">
+                </div>
+                <p class="m-0">By <span>Mr.food</span></p>
+                <div class="d-flex align-items-center gap-3">
+                    <span class="DBSprice">₹250</span>
+                    <span class="DBSdiscount">₹300</span>
+                </div>
+                <button class="">
+                    <img src="/Assets/Daily Best Sells/shopping-cart.png" alt="">
+                    <span>Add to Cart</span>
+                </button>
+                <div class="DBSsave">
+                    Save 12%
+                </div>
+            </div>
+
+            <div class="DBSproduct">
+                <div><img
+                        src="https://www.bbassets.com/media/uploads/p/l/50000554_7-fresho-sweet-potato-organically-grown.jpg"
+                        alt=""></div>
+                <span>Vegetables</span>
+                <div class="d-flex align-items-center justify-content-between">
+                    <h6>Onion 1kg</h6>
+                    <img src="/Assets/Daily Best Sells/rating.png" alt="">
+                </div>
+                <p class="m-0">By <span>Mr.food</span></p>
+                <div class="d-flex align-items-center gap-3">
+                    <span class="DBSprice">₹40</span>
+                    <span class="DBSdiscount">₹50</span>
+                </div>
+                <button class="">
+                    <img src="/Assets/Daily Best Sells/shopping-cart.png" alt="">
+                    <span>Add to Cart</span>
+                </button>
+                <div class="DBSsave">
+                    Save 24%
+                </div>
+            </div>
+
+            <div class="DBSproduct">
+                <div><img src="https://www.bbassets.com/media/uploads/p/l/1201414_4-fresho-onion.jpg" alt=""></div>
+                <span>Meat</span>
+                <div class="d-flex align-items-center justify-content-between">
+                    <h6>Halal Sausage </h6>
+                    <img src="/Assets/Daily Best Sells/rating.png" alt="">
+                </div>
+                <p class="m-0">By <span>Mr.food</span></p>
+                <div class="d-flex align-items-center gap-3">
+                    <span class="DBSprice">₹500</span>
+                    <span class="DBSdiscount">₹600</span>
+                </div>
+                <button class="">
+                    <img src="/Assets/Daily Best Sells/shopping-cart.png" alt="">
+                    <span>Add to Cart</span>
+                </button>
+                <div class="DBSsave">Save 10%</div>
+            </div>
+
+            <div class="DBSproduct">
+                <div><img src="https://www.bbassets.com/media/uploads/p/l/40057966_11-fresho-tender-coconut-medium.jpg"
+                        alt=""></div>
+                <span>Coffe & Teas</span>
+                <div class="d-flex align-items-center justify-content-between">
+                    <h6>Green Tea 250g</h6>
+                    <img src="/Assets/Daily Best Sells/rating.png" alt="">
+                </div>
+                <p class="m-0">By <span>Mr.food</span></p>
+                <div class="d-flex align-items-center gap-3">
+                    <span class="DBSprice">₹250</span>
+                    <span class="DBSdiscount">₹300</span>
+                </div>
+                <button class="">
+                    <img src="/Assets/Daily Best Sells/shopping-cart.png" alt="">
+                    <span>Add to Cart</span>
+                </button>
+                <div class="DBSsave">
+                    Save 12%
+                </div>
+            </div>
+
+            <div class="DBSproduct">
+                <div><img src="/Assets/Daily Best Sells/coffe 1kg.png" alt=""></div>
+                <span>Coffe & teas</span>
+                <div class="d-flex align-items-center justify-content-between">
+                    <h6>Coffe 1kg</h6>
+                    <img src="/Assets/Daily Best Sells/rating.png" alt="">
+                </div>
+                <p class="m-0">By <span>Mr.food</span></p>
+                <div class="d-flex align-items-center gap-3">
+                    <span class="DBSprice">₹150</span>
+                    <span class="DBSdiscount">₹200</span>
+                </div>
+                <button class="">
+                    <img src="/Assets/Daily Best Sells/shopping-cart.png" alt="">
+                    <span>Add to Cart</span>
+                </button>
+                <div class="DBSsave">
+                    Save 10%
+                </div>
+            </div>
+
+            <div class="DBSproduct">
+                <div><img src="/Assets/Daily Best Sells/Halal Sausage 500g.png" alt=""></div>
+                <span>Meat</span>
+                <div class="d-flex align-items-center justify-content-between">
+                    <h6>Halal Sausage </h6>
+                    <img src="/Assets/Daily Best Sells/rating.png" alt="">
+                </div>
+                <p class="m-0">By <span>Mr.food</span></p>
+                <div class="d-flex align-items-center gap-3">
+                    <span class="DBSprice">₹500</span>
+                    <span class="DBSdiscount">₹600</span>
+                </div>
+                <button class="">
+                    <img src="/Assets/Daily Best Sells/shopping-cart.png" alt="">
+                    <span>Add to Cart</span>
+                </button>
+                <div class="DBSsave">
+                    Save 10%
+                </div>
+            </div>
+
+            <div class="DBSproduct">
+                <div><img src="/Assets/Daily Best Sells/Green Tea 250g.png" alt=""></div>
+                <span>Coffe & Teas</span>
+                <div class="d-flex align-items-center justify-content-between">
+                    <h6>Green Tea 250g</h6>
+                    <img src="/Assets/Daily Best Sells/rating.png" alt="">
+                </div>
+                <p class="m-0">By <span>Mr.food</span></p>
+                <div class="d-flex align-items-center gap-3">
+                    <span class="DBSprice">₹250</span>
+                    <span class="DBSdiscount">₹300</span>
+                </div>
+                <button class="">
+                    <img src="/Assets/Daily Best Sells/shopping-cart.png" alt="">
+                    <span>Add to Cart</span>
+                </button>
+                <div class="DBSsave">
+                    Save 12%
+                </div>
+            </div>
+
+            <div class="DBSproduct">
+                <div><img src="/Assets/Daily Best Sells/Onion 1kg.png" alt=""></div>
+                <span>Vegetables</span>
+                <div class="d-flex align-items-center justify-content-between">
+                    <h6>Onion 1kg</h6>
+                    <img src="/Assets/Daily Best Sells/rating.png" alt="">
+                </div>
+                <p class="m-0">By <span>Mr.food</span></p>
+                <div class="d-flex align-items-center gap-3">
+                    <span class="DBSprice">₹40</span>
+                    <span class="DBSdiscount">₹50</span>
+                </div>
+                <button class="">
+                    <img src="/Assets/Daily Best Sells/shopping-cart.png" alt="">
+                    <span>Add to Cart</span>
+                </button>
+                <div class="DBSsave">
+                    Save 24%
+                </div>
+            </div>
+
+            <div class="DBSproduct">
+                <div><img src="/Assets/Daily Best Sells/Halal Sausage 500g.png" alt=""></div>
+                <span>Meat</span>
+                <div class="d-flex align-items-center justify-content-between">
+                    <h6>Halal Sausage </h6>
+                    <img src="/Assets/Daily Best Sells/rating.png" alt="">
+                </div>
+                <p class="m-0">By <span>Mr.food</span></p>
+                <div class="d-flex align-items-center gap-3">
+                    <span class="DBSprice">₹500</span>
+                    <span class="DBSdiscount">₹600</span>
+                </div>
+                <button class="">
+                    <img src="/Assets/Daily Best Sells/shopping-cart.png" alt="">
+                    <span>Add to Cart</span>
+                </button>
+                <div class="DBSsave">Save 10%</div>
+            </div>
+
+            <div class="DBSproduct">
+                <div><img src="/Assets/Daily Best Sells/Green Tea 250g.png" alt=""></div>
+                <span>Coffe & Teas</span>
+                <div class="d-flex align-items-center justify-content-between">
+                    <h6>Green Tea 250g</h6>
+                    <img src="/Assets/Daily Best Sells/rating.png" alt="">
+                </div>
+                <p class="m-0">By <span>Mr.food</span></p>
+                <div class="d-flex align-items-center gap-3">
+                    <span class="DBSprice">₹250</span>
+                    <span class="DBSdiscount">₹300</span>
+                </div>
+                <button class="">
+                    <img src="/Assets/Daily Best Sells/shopping-cart.png" alt="">
+                    <span>Add to Cart</span>
+                </button>
+                <div class="DBSsave">
+                    Save 12%
+                </div>
+            </div>
+
+
+
+
+<!-- add to cart function  -->
+ function addToCartinContainer() {
+    DBSproductArray.forEach((addToCart) => {
+        let div = document.createElement("div")
+        div.className = "addToCart d-flex gap-2 align-items-center"
+        div.innerHTML = `
+<div> <img
+        src="${addToCart.img}"
+        alt=""></div>
+<div>
+    <h5 class="addName">${addToCart.name}</h5>
+    <span class="addCatergory">${addToCart.catagory}</span>
+    <div class="d-flex justify-content-between">
+        <div class="d-flex gap-2 align-items-center">
+            <input class="addCount" type="number" value="1" min="1" max="5">
+            <div>
+                <button class="incress">+</button>
+                <button class="decress">-</button>
+            </div>
+        </div>
+        <p class="addAmount">${addToCart.rate}</p>
+    </div>
+    <i class="addRemove fa-solid fa-trash" style="color: #ff0000;"></i>
+</div>`
+        console.log(div);
+        addToCartContainer.append(div)
+    })
+}
+
+addToCart.forEach((add) => {
+    add.addEventListener("click", (e) => {
+        let DBSproduct = e.target.parentElement
+        let dbsProductImg = DBSproduct.querySelector(".dbsImg")
+        // let dbsProductImg = dbsProductImgTag.src
+        let dbsProductCatagory = DBSproduct.querySelector(".dbsCatagory")
+        let dbsProductName = DBSproduct.querySelector(".dbsName")
+        let dbsProductRate = DBSproduct.querySelector(".DBSprice")
+
+        let DBSproductObj = {
+            name: dbsProductName.innerHTML,
+            rate: dbsProductRate.innerHTML,
+            img: dbsProductImg.src,
+            catagory: dbsProductCatagory.innerHTML,
+        }
+
+        // let allReady = DBSproductArray.filter((item)=> item.name === DBSproductObj.name)
+        let allReady = DBSproductArray.some((item) => item.name === DBSproductObj.name)
+
+        if (allReady) {
+            alert("All Ready Have in Add to Cart")
+        }
+        else {
+            DBSproductArray.push(DBSproductObj)
+            console.log(DBSproductArray)
+        }
+        addToCartinContainer()
+    })
+})
+
+
+
+<!-- like wish -->
+
+
+<!-- like list remove -->
+ let removeWish = document.querySelectorAll(".removeWish")
+
+        removeWish.forEach((removeW) => {
+            removeW.addEventListener("click", (e) => {
+
+                let removeWishList = e.target.parentElement.parentElement
+                // console.log(removeWishList);
+                removeWishList.remove()
+
+                like.className = "fa-regular fa-heart"
+                like.style.color = "black"
+
+                // remove form Array
+                wishArr = wishArr.filter((item) => item.name !== fpName)
+
+                console.log(wishArr);
+
+                wishCount.innerHTML = wishArr.length
+                console.log(wishArr.length);
+
+            })
+        })

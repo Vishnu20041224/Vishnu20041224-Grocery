@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vishnu GROCERY</title>
+    <link rel="icon" href="/Assets/nav/logo.png">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+        integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="/style.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <nav class="">
+        <div class=" container">
+            <div class="navBar d-flex align-items-center justify-content-between">
+                <div class="logo d-flex alignitems-center">
+                    <div id="logoImg">
+                        <img src="/Assets/nav/logo.png" alt="">
+                    </div>
+                    <div>
+                        <h5 class="m-0">Vishnu</h5>
+                        <span>GROCERY</span>
+                    </div>
+                </div>
+
+                <div class="searchBar d-flex align-items-center mx-3">
+                    <input type="text" class="p-1 " placeholder=" Coming Soon">
+                    <div class="py-1 px-2"><img src="/Assets/nav/search.png" alt=""></div>
+                </div>
+
+                <div class="wishlis d-flex align-items-center gap-3 m-2">
+                    <div class="wishC d-flex gap-2">
+                        <div class="wishImg">
+                            <i class="fa-regular fa-heart fs-3"></i>
+                            <h6 class="wishCount">0</h6>
+                        </div>
+                        <span class="fs-6">Wishlist</span>
+                    </div>
+                    <div class="wishListContainer">
+                        
+                    </div>
+                </div>
+
+                <div class="cart d-flex align-items-center gap-3 m-2">
+                    <div class="cartImg">
+                        <i class="fa-solid fa-cart-shopping fs-3"></i>
+                        <h6 class="wishCount" id="addTocartCount">0</h6>
+                    </div>
+                    <div class="cartText">
+                        <h6 class="fs-6 mb-1">My Cart</h6>
+                        <h6 class="cartAmount">₹0</h6>
+                        <div class="addToCartContainer ">
+                            <i class="addContainerClose fa-solid fa-xmark"></i>
+                            
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </nav>
+    <section class="heropage container-fluid p-0 pb-0">
+        <div id="heroText" class="row align-items-center justify-content-center m-0 p-0">
+
+            <div class="col-lg-6 ">
+                <div class="mx-1 mx-lg-5">
+                    <h1 class=" mb-4"><span class="lineBreack">Don’t miss our daily</span>
+                        <span class="lineBreack">amazing deals.</span>
+                    </h1>
+                    <h6>Save up to 60% off on your first order</h6>
+                </div>
+            </div>
+
+            
+
+        </div>
+
+
+    </section>
+    <div class="darkMode m-0 p-0">
+        <section class="exploreCategories pt-5">
+            <div>
+                <div class="container d-sm-flex justify-content-between align-items-center">
+                    <h1>Explore Categories</h1>
+                    
+                    <ul class="exploreCategoriescateres d-flex  p-0 mt-sm-0">
+                        
+                    </ul>
+                </div>
+
+                <div class="d-flex align-items-center justify-content-between my-3 m-md-5 ">
+                    <button class="productsSlide" id="ECleftSlide"><img src="/Assets/explore Categories/left arrow.png"
+                            alt=""></button>
+                    <div
+                        class="exploreCategoriesProducteds d-flex align-items-center justify-content-between gap-4 gap-lg-4 mx-2 mx-md-5">
+
+                        
+                    </div>
+                    <button class="productsSlide" id="ECrightSlide"><img
+                            src="/Assets/explore Categories/right arrow.png" alt=""></button>
+
+                </div>
+            </div>
+        </section>
+
+        <section class="featuredProducts mb-5">
+            <div>
+                <div class="container d-sm-flex justify-content-between align-items-center">
+                    <h1>Featured Products</h1>
+                    <ul class="allCategoriesfeaturedProducts d-flex p-0 m-0">
+
+                    </ul>
+                </div>
+
+                <div class="d-flex align-items-center justify-content-between my-3 m-md-5 ">
+                    <button class="productsSlide" id="FPleftSlide"><img src="/Assets/explore Categories/left arrow.png"
+                            alt=""></button>
+                    <div id="exploreCategoriesPro"
+                        class="allfeaturedProducts d-flex align-items-center gap-3 mx-2 mx-sm-5">
+
+                    </div>
+
+                    <button class="productsSlide" id="FPrightSlide"><img
+                            src="/Assets/explore Categories/right arrow.png" alt=""></button>
+                </div>
+
+
+
+            </div>
+        </section>
+
+        <section class="free mb-5 container">
+            <div class="row">
+                <div class="freeDelivery mb-5 col-md-6 p-0 ">
+                    <div class="row mx-0">
+                        <div class="col-7">
+                            <div class="my-5 m-lg-5">
+                                <h6>Free delivery</h6>
+                                <h2>Free delivery</h2>
+                                <p><span class="lineBreack">Shop ₹200 product and get free</span>
+                                    <span class="lineBreack">delivery anywhre.</span>
+                                </p>
+                                <button>Shop Now <img src="/Assets/Free delivery/arrow-right.png" alt=""></button>
+                            </div>
+                        </div>
+                        <div class="col-5 p-0">
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="organicFood mb-5 col-md-6 p-0">
+                    <div class=" row  mx-2">
+                        <div class="col-7">
+                            <div class=" my-5 m-lg-5">
+                                <h6>60% off</h6>
+                                <h2>Organic Food</h2>
+                                <p><span class="lineBreack">Save up to 60% off on your </span>
+                                    <span class="lineBreack">first order</span>
+                                </p>
+                                <button>Order Now <img src="/Assets/Free delivery/arrow-right.png" alt=""></button>
+                            </div>
+                        </div>
+                        <div class="col-5 p-0">
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="dailyBestSells container mb-5">
+            <div class="dailyBestSellsHeader d-md-flex justify-content-between mb-4">
+                <div class="d-md-flex align-items-center gap-4">
+                    <h1>Daily Best Sells</h1>
+                    
+                    <h6 class="mt-3 mt-md-0">
+                        <span>SALES END IN: </span>
+                        <span class="hour">00</span>:
+                        <span class="min">00</span>:
+                        <span class="sec">00</span>
+                    </h6>
+                </div>
+
+                <div class="d-flex gap-3">
+                    <button class="productsSlide" id="DBSleftSlide"><img src="/Assets/explore Categories/left arrow.png"
+                            alt=""></button>
+                    <button class="productsSlide" id="DBSrightSlide"><img
+                            src="/Assets/explore Categories/right arrow.png" alt=""></button>
+                </div>
+            </div>
+            <div class="d-flex dailyBestSellsAllProduct gap-3">
+
+            </div>
+        </section>
+
+        <section class="top my-5 container">
+            <div class="row align-items-center justify-content-between">
+
+                <div class="topSells col-12 col-md-6 col-lg-3 mt-3">
+                    <div class="topSellsHeader">
+                        <h2>Top Sells</h2>
+                        <img src="/Assets/top sell/line.png" alt="">
+                    </div>
+
+                    <div class="topSellsProducts mt-4">
+
+                        <!-- <div class="tSProduct mb-4 d-flex gap-3 align-items-center">
+                            <div class="topbg"><img src="/Assets/top sell/orange 1kg.png" alt=""></div>
+                            <div>
+                                <h4>Orange 1kg</h4>
+                                <img src="/Assets/top sell/rating.png" alt="">
+                                <div class="d-flex gap-2">
+                                    <h5>₹120</h5>
+                                    <span>₹150</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="tSProduct mb-4 d-flex gap-3 align-items-center">
+                            <div class="topbg"><img src="/Assets/top sell/vegetabels.png" alt=""></div>
+                            <div>
+                                <h4>Orange 1kg</h4>
+                                <img src="/Assets/top sell/rating.png" alt="">
+                                <div class="d-flex gap-2">
+                                    <h5>₹120</h5>
+                                    <span>₹150</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="tSProduct mb-4 d-flex gap-3 align-items-center">
+                            <div class="topbg"><img src="/Assets/top sell/strawberry.png" alt=""></div>
+                            <div>
+                                <h4>Orange 1kg</h4>
+                                <img src="/Assets/top sell/rating.png" alt="">
+                                <div class="d-flex gap-2">
+                                    <h5>₹120</h5>
+                                    <span>₹150</span>
+                                </div>
+                            </div>
+                        </div> -->
+                    </div>
+                </div>
+
+                <div class="topRated col-12 col-md-6 col-lg-3  mt-3">
+                    <div class="topRatedHeader">
+                        <h2>Top Rated</h2>
+                        <img src="/Assets/top sell/line.png" alt="">
+                    </div>
+
+                    <div class="topRatedProducts mt-4">
+
+                        <!-- <div class="tRProduct mb-4 d-flex gap-3 align-items-center">
+                            <div class="topbg"><img src="/Assets/top rated/apple.png" alt=""></div>
+                            <div>
+                                <h4>Orange 1kg</h4>
+                                <img src="/Assets/top sell/rating.png" alt="">
+                                <div class="d-flex gap-2">
+                                    <h5>₹120</h5>
+                                    <span>₹150</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="tRProduct mb-4 d-flex gap-3 align-items-center">
+                            <div class="topbg"><img src="/Assets/top rated/peach.png" alt=""></div>
+                            <div>
+                                <h4>Orange 1kg</h4>
+                                <img src="/Assets/top sell/rating.png" alt="">
+                                <div class="d-flex gap-2">
+                                    <h5>₹120</h5>
+                                    <span>₹150</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="tRProduct mb-4 d-flex gap-3 align-items-center">
+                            <div class="topbg"><img src="/Assets/top rated/vegetabels.png" alt=""></div>
+                            <div>
+                                <h4>Orange 1kg</h4>
+                                <img src="/Assets/top sell/rating.png" alt="">
+                                <div class="d-flex gap-2">
+                                    <h5>₹120</h5>
+                                    <span>₹150</span>
+                                </div>
+                            </div>
+                        </div> -->
+                    </div>
+                </div>
+
+                <div class="trendingItems col-12 col-md-6 col-lg-3 mt-3">
+                    <div class="trendingItemsHeader">
+                        <h2>Trending Items</h2>
+                        <img src="/Assets/top sell/line.png" alt="">
+                    </div>
+
+                    <div class="trendingItemsProducts mt-4">
+
+                        <!-- <div class="tIProduct mb-4 d-flex gap-3 align-items-center">
+                            <div class="topbg"><img src="/Assets/top rated/peach.png" alt=""></div>
+                            <div>
+                                <h4>Orange 1kg</h4>
+                                <img src="/Assets/top sell/rating.png" alt="">
+                                <div class="d-flex gap-2">
+                                    <h5>₹120</h5>
+                                    <span>₹150</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="tIProduct mb-4 d-flex gap-3 align-items-center">
+                            <div class="topbg"><img src="/Assets/top sell/vegetabels.png" alt=""></div>
+                            <div>
+                                <h4>Orange 1kg</h4>
+                                <img src="/Assets/top sell/rating.png" alt="">
+                                <div class="d-flex gap-2">
+                                    <h5>₹120</h5>
+                                    <span>₹150</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="tIProduct mb-4 d-flex gap-3 align-items-center">
+                            <div class="topbg"><img src="/Assets/top sell/strawberry.png" alt=""></div>
+                            <div>
+                                <h4>Orange 1kg</h4>
+                                <img src="/Assets/top sell/rating.png" alt="">
+                                <div class="d-flex gap-2">
+                                    <h5>₹120</h5>
+                                    <span>₹150</span>
+                                </div>
+                            </div>
+                        </div> -->
+                    </div>
+                </div>
+
+                <div class="recentlyAdded col-12 col-md-6 col-lg-3 mt-3">
+                    <div class="recentlyAddedHeader">
+                        <h2>Recently Added</h2>
+                        <img src="/Assets/top sell/line.png" alt="">
+                    </div>
+
+                    <div class="recentlyAddedProducts mt-4">
+                       
+                        <!-- <div class="rAProduct mb-4 d-flex gap-3 align-items-center">
+                            <div class="topbg"><img src="/Assets/trending Items/carret.png" alt=""></div>
+                            <div>
+                                <h4>Orange 1kg</h4>
+                                <img src="/Assets/top sell/rating.png" alt="">
+                                <div class="d-flex gap-2">
+                                    <h5>₹120</h5>
+                                    <span>₹150</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="tIProduct mb-4 d-flex gap-3 align-items-center">
+                            <div class="topbg"><img src="/Assets/trending Items/potato.png" alt=""></div>
+                            <div>
+                                <h4>Orange 1kg</h4>
+                                <img src="/Assets/top sell/rating.png" alt="">
+                                <div class="d-flex gap-2">
+                                    <h5>₹120</h5>
+                                    <span>₹150</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="tIProduct mb-4 d-flex gap-3 align-items-center">
+                            <div class="topbg"><img src="/Assets/trending Items/orange.png" alt=""></div>
+                            <div>
+                                <h4>Orange 1kg</h4>
+                                <img src="/Assets/top sell/rating.png" alt="">
+                                <div class="d-flex gap-2">
+                                    <h5>₹120</h5>
+                                    <span>₹150</span>
+                                </div>
+                            </div>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="about container">
+            <div class="row justify-content-between align-items-center ">
+
+                <div class="d-flex align-items-center gap-3 col-12 col-md-6 col-lg-4 mb-4">
+                    <div>
+                        <img src="/Assets/about/1.png" alt="">
+                    </div>
+                    <div>
+                        <h6>Best Prices & Deals</h6>
+                        <p><span class="lineBreack">Don’t miss our daily amazing</span>
+                            <span class="lineBreack">deals and prices</span>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="d-flex align-items-center gap-3 col-12 col-md-6 col-lg-4 mb-4">
+                    <div>
+                        <img src="/Assets/about/2.png" alt="">
+                    </div>
+                    <div>
+                        <h6>Refundable</h6>
+                        <p><span class="lineBreack">If your items have damage </span>
+                            <span class="lineBreack">we agree to refund it</span>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="d-flex align-items-center gap-3 col-12 col-md-6 col-lg-4 mb-4">
+                    <div>
+                        <img src="/Assets/about/3.png" alt="">
+                    </div>
+                    <div>
+                        <h6>Free delivery</h6>
+                        <p><span class="lineBreack">Do purchase over $50 and </span>
+                            <span class="lineBreack">get free delivery anywhere</span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <footer class="container py-5">
+            <div class="d-md-flex justify-content-between pb-5">
+                <div class="">
+                    <div class="logo d-flex alignitems-center pb-4">
+                        <div id="logoImg">
+                            <img src="/Assets/nav/logo.png" alt="">
+                        </div>
+                        <div>
+                            <h5 class="m-0">Vishnu</h5>
+                            <span>GROCERY</span>
+                        </div>
+                    </div>
+                    <h6 class="pb-3"><img src="/Assets/footer/location.png" alt="">Address: <span>Chrompet
+                            Channai</span>
+                    </h6>
+                    <h6 class="pb-3"><img src="/Assets/footer/clock.png" alt="">Call us: <span>+91 9176017127</span>
+                    </h6>
+                    <h6 class="pb-3"><img src="/Assets/footer/mail.png" alt="">Email:
+                        <span>rhvishnushankar@gmail.com</span>
+                    </h6>
+                    <h6 class="pb-3"><img src="/Assets/footer/clock.png" alt="">Work hours: <span>8:00 - 20:00</span>
+                    </h6>
+                </div>
+                <div class="pt-4 pt-md-0">
+                    <h4 class="pb-4">Account</h4>
+                    <span class="dblock pb-3">Wishlist</span>
+                    <span class="dblock pb-3">Cart</span>
+                    <span class="dblock pb-3">Track Order</span>
+                    <span class="dblock pb-3">Shipping Details</span>
+                </div>
+
+                <div class="pt-4 pt-md-0">
+                    <h4 class="pb-4">Useful links</h4>
+                    <span class="dblock pb-3">About Us</span>
+                    <span class="dblock pb-3">Conact</span>
+                    <span class="dblock pb-3">Hot deals</span>
+                    <span class="dblock pb-3">Promotions</span>
+                    <span class="dblock pb-3">New products</span>
+                </div>
+
+                <div class="pt-4 pt-md-0">
+                    <h4 class="pb-4">Help Center</h4>
+                    <span class="dblock pb-3">Payments</span>
+                    <span class="dblock pb-3">Refund</span>
+                    <span class="dblock pb-3">Checkout</span>
+                    <span class="dblock pb-3">Shipping</span>
+                    <span class="dblock pb-3">Q&A</span>
+                    <span class="dblock pb-3">Privacy Policy</span>
+                </div>
+            </div>
+
+            <div class="mt-5 d-md-flex justify-content-between align-items-center">
+                <span class="">© 2022, All rights reserved</span>
+                <img class="my-5 dblock" src="/Assets/footer/Payment.png" alt="">
+                <div class=" d-flex align-items-center gap-3">
+                    <div><img src="/Assets/footer/faceBook.png" alt=""></div>
+                    <div><img src="/Assets/footer/linkin.png" alt=""></div>
+                    <div><img src="/Assets/footer/insta.png" alt=""></div>
+                    <div><img src="/Assets/footer/x.png" alt=""></div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <script src="/script.js" defer></script>
+</body>
+
+</html>
