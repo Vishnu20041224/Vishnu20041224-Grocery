@@ -1,0 +1,254 @@
+[
+  {
+    "src": "/Assets/featured products/avocado.webp",
+    "name": "avocado 1kg",
+    "catagory": "fruit",
+    "currentRate": 140,
+    "mrp": 150
+  },
+  {
+    "src": "/Assets/featured products/potato.webp",
+    "name": "potato 1kg",
+    "catagory": "Vegetables",
+    "currentRate": 40,
+    "mrp": 55
+  },
+  {
+    "src": "/Assets/featured products/apple.webp",
+    "name": "apple 1kg",
+    "catagory": "fruit",
+    "currentRate": 150,
+    "mrp": 200
+  },
+  {
+    "src": "/Assets/featured products/ridge-gourd.webp",
+    "name": "Ridge Gourd 300g",
+    "catagory": "Vegetables",
+    "currentRate": 40,
+    "mrp": 55
+  },
+  {
+    "src": "/Assets/featured products/beetroot.webp",
+    "name": "beetroot 500g",
+    "catagory": "Vegetables",
+    "currentRate": 60,
+    "mrp": 75
+  },
+  {
+    "src": "/Assets/featured products/corianderleaves.webp",
+    "name": "corianderleaves",
+    "catagory": "Vegetables",
+    "currentRate": 10,
+    "mrp": 20
+  },
+  {
+    "src": "/Assets/featured products/ladiesfinger.webp",
+    "name": "ladiesfinger 100g",
+    "catagory": "Vegetables",
+    "currentRate": 39,
+    "mrp": 49
+  },
+  {
+    "src": "/Assets/featured products/jamun.webp",
+    "name": "jamun",
+    "catagory": "fruit",
+    "currentRate": 100,
+    "mrp": 130
+  },
+  {
+    "src": "/Assets/featured products/mushrooms.webp",
+    "name": "mushrooms 400g",
+    "catagory": "Vegetables",
+    "currentRate": 70,
+    "mrp": 100
+  },
+  {
+    "src": "/Assets/featured products/curry-leaves.webp",
+    "name": "Curry Leaves",
+    "catagory": "Vegetables",
+    "currentRate": 10,
+    "mrp": 15
+  },
+  {
+    "src": "/Assets/featured products/fresho-litchi.webp",
+    "name": "litchi 300g",
+    "catagory": "fruit",
+    "currentRate": 200,
+    "mrp": 240
+  },
+  {
+    "src": "/Assets/featured products/garlic.webp",
+    "name": "garlic 200g",
+    "catagory": "Vegetables",
+    "currentRate": 50,
+    "mrp": 60
+  },
+  {
+    "src": "/Assets/featured products/ginger.webp",
+    "name": "ginger 50g",
+    "catagory": "Vegetables",
+    "currentRate": 40,
+    "mrp": 50
+  },
+  {
+    "src": "/Assets/featured products/varikatri.webp",
+    "name": "varikatri 200g",
+    "catagory": "Vegetables",
+    "currentRate": 60,
+    "mrp": 50
+  },
+  {
+    "src": "/Assets/featured products/papaya.webp",
+    "name": "papaya 700g",
+    "catagory": "fruit",
+    "currentRate": 80,
+    "mrp": 100
+  },
+  {
+    "src": "/Assets/featured products/brinjal.webp",
+    "name": "brinjal 500g",
+    "catagory": "Vegetables",
+    "currentRate": 50,
+    "mrp": 60
+  },
+  {
+    "src": "/Assets/featured products/kiwi-green.webp",
+    "name": "kiwi 500g",
+    "catagory": "fruit",
+    "currentRate": 150,
+    "mrp": 180
+  },
+  {
+    "src": "/Assets/featured products/blueberry.webp",
+    "name": "blueberry 100g",
+    "catagory": "fruit",
+    "currentRate": 100,
+    "mrp": 130
+  },
+  {
+    "src": "/Assets/featured products/cabbage.webp",
+    "name": "blueberry 200g",
+    "catagory": "Vegetables",
+    "currentRate": 50,
+    "mrp": 55
+  },
+  {
+    "src": "/Assets/featured products/3-roses-natural-care-tea.webp",
+    "name": "3 roses 400g",
+    "catagory": "tea & coffee",
+    "currentRate": 250,
+    "mrp": 275
+  },
+  {
+    "src": "/Assets/featured products/tata-tea-kanan-devan-tea.webp",
+    "name": "Tata Tea 500g",
+    "catagory": "tea & coffee",
+    "currentRate": 230,
+    "mrp": 255
+  },
+  {
+    "src": "/Assets/featured products/taj-mahal-tea.webp",
+    "name": "taj-mahal 500g",
+    "catagory": "tea & coffee",
+    "currentRate": 350,
+    "mrp": 365
+  },
+  {
+    "src": "/Assets/featured products/3-roses-dust-tea.webp",
+    "name": "3 roses 500g",
+    "catagory": "tea & coffee",
+    "currentRate": 300,
+    "mrp": 305
+  },
+  {
+    "src": "/Assets/featured products/bru-instant-coffee.webp",
+    "name": "BRU Coffee 200g",
+    "catagory": "tea & coffee",
+    "currentRate": 150,
+    "mrp": 165
+  },
+  {
+    "src": "/Assets/featured products/tata-coffee-grand.webp",
+    "name": "Tata Coffee 200g",
+    "catagory": "tea & coffee",
+    "currentRate": 170,
+    "mrp": 195
+  },
+  {
+    "src": "/Assets/featured products/sunrise-instant-coffee-chicory-mix.webp",
+    "name": "sunrise Coffee 500g",
+    "catagory": "tea & coffee",
+    "currentRate": 370,
+    "mrp": 395
+  },
+  {
+    "src": "/Assets/featured products/nescafe-classic-100-pure-instant-coffee.webp",
+    "name": "nescafe Coffee 400g",
+    "catagory": "tea & coffee",
+    "currentRate": 300,
+    "mrp": 355
+  },
+  {
+    "src": "/Assets/featured products/chicken-malai-tikka-juicy-fresh.webp",
+    "name": "chicken 500g",
+    "catagory": "meat",
+    "currentRate": 300,
+    "mrp": 355
+  },
+  {
+    "src": "/Assets/featured products/chicken-malai-tikka-juicy-fresh.webp",
+    "name": "chicken 500g",
+    "catagory": "meat",
+    "currentRate": 170,
+    "mrp": 200
+  },
+  {
+    "src": "/Assets/featured products/tandoori-chicken-juicy.webp",
+    "name": "tandoori-chicken 500g",
+    "catagory": "meat",
+    "currentRate": 190,
+    "mrp": 200
+  },
+  {
+    "src": "/Assets/featured products/chicken-curry-cut-without-skin-antibiotic-residue-free.webp",
+    "name": "chicken-without-skin 500g",
+    "catagory": "meat",
+    "currentRate": 220,
+    "mrp": 240
+  },
+  {
+    "src": "/Assets/featured products/chicken-hotdog-smoked-sausage.webp",
+    "name": "chicken-hotdog 500g",
+    "catagory": "meat",
+    "currentRate": 200,
+    "mrp": 220
+  },
+  {
+    "src": "/Assets/featured products/mutton-boneless.webp",
+    "name": "mutton 500g",
+    "catagory": "meat",
+    "currentRate": 500,
+    "mrp": 550
+  },
+  {
+    "src": "/Assets/featured products/maggi-2-minute-noodles-masala.webp",
+    "name": "maggi ",
+    "catagory": "snacks",
+    "currentRate": 100,
+    "mrp": 120
+  },
+  {
+    "src": "/Assets/featured products/britannia-marie-gold-biscuits.webp",
+    "name": "marie-gold ",
+    "catagory": "snacks",
+    "currentRate": 50,
+    "mrp": 55
+  },
+  {
+    "src": "https://www.bbassets.com/media/uploads/p/l/1212774-2_4-lays-potato-chips-indias-magic-masala.jpg",
+    "name": "Lays ",
+    "catagory": "snacks",
+    "currentRate": 18,
+    "mrp": 20
+  }
+]

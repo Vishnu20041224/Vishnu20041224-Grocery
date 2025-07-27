@@ -1,0 +1,62 @@
+[
+    {
+        "src": "/Assets/explore Categories/peach.png",
+        "name": "peach",
+        "catagory": "fruit"
+    },
+    {
+        "src": "/Assets/explore Categories/2vegetables.png",
+        "name": "green",
+        "catagory": "vegtable"
+    },
+    {
+        "src": "/Assets/explore Categories/3strawberry.png",
+        "name": "strawberry",
+        "catagory": "fruit"
+    },
+    {
+        "src": "/Assets/explore Categories/4apple.png",
+        "name": "apple",
+        "catagory": "fruit"
+    },
+    {
+        "src": "/Assets/explore Categories/5orange.png",
+        "name": "orange",
+        "catagory": "fruit"
+    },
+    {
+        "src": "/Assets/explore Categories/6potayo.png",
+        "name": "potato",
+        "catagory": "vegtable"
+    },
+    {
+        "src": "/Assets/explore Categories/7carrot.png",
+        "name": "Carrat",
+        "catagory": "vegtable"
+    },
+    {
+        "src": "/Assets/explore Categories/chicken.webp",
+        "name": "chicken",
+        "catagory": "meat"
+    },
+    {
+        "src": "/Assets/explore Categories/mutton.png",
+        "name": "mutton",
+        "catagory": "meat"
+    },
+    {
+        "src": "/Assets/explore Categories/mutton-seekh-kebab.webp",
+        "name": "kebab",
+        "catagory": "meat"
+    },
+    {
+        "src": "/Assets/explore Categories/mango2-removebg-preview.png",
+        "name": "mango",
+        "catagory": "fruit"
+    },
+    {
+        "src": "/Assets/explore Categories/mahaltea.webp",
+        "name": "mahal tea",
+        "catagory": "Tea & coffee"
+    }
+]

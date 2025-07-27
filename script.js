@@ -1,447 +1,23 @@
-let exploreCategoriesData = [
-    {
-        src: "/Assets/explore Categories/peach.png",
-        name: "peach",
-        catagory: "fruit",
-    },
-    {
-        src: "/Assets/explore Categories/2vegetables.png",
-        name: "green",
-        catagory: "vegtable",
-    },
-    {
-        src: "/Assets/explore Categories/3strawberry.png",
-        name: "strawberry",
-        catagory: "fruit",
-    },
-    {
-        src: "/Assets/explore Categories/4apple.png",
-        name: "apple",
-        catagory: "fruit",
-    },
-    {
-        src: "/Assets/explore Categories/5orange.png",
-        name: "orange",
-        catagory: "fruit",
-    },
-    {
-        src: "/Assets/explore Categories/6potayo.png",
-        name: "potato",
-        catagory: "vegtable",
-    },
-    {
-        src: "/Assets/explore Categories/7carrot.png",
-        name: "Carrat",
-        catagory: "vegtable",
-    },
-    {
-        src: "/Assets/explore Categories/chicken.webp",
-        name: "chicken",
-        catagory: "meat",
-    },
-    {
-        src: "/Assets/explore Categories/mutton.png",
-        name: "mutton",
-        catagory: "meat",
-    },
-    {
-        src: "/Assets/explore Categories/mutton-seekh-kebab.webp",
-        name: "kebab",
-        catagory: "meat",
-    },
-    {
-        src: "/Assets/explore Categories/mango2-removebg-preview.png",
-        name: "mango",
-        catagory: "fruit",
-    },
-    {
-        src: "/Assets/explore Categories/mahaltea.webp",
-        name: "mahal tea",
-        catagory: "Tea & coffee",
-    },
-    {
-        src: "/Assets/explore Categories/3rosesdusttea.png",
-        name: "3 rosesdust",
-        catagory: "Tea & coffee",
-    },
-    {
-        src: "/Assets/explore Categories/bruinstantcoffee.webp",
-        name: "BUR Coffee",
-        catagory: "Tea & coffee",
-    },
-]
-
-let featuredProductsData = [
-    {
-        src: "/Assets/featured products/avocado.webp",
-        name: "avocado 1kg",
-        catagory: "fruit",
-        currentRate: 140,
-        mrp: 150
-    },
-    {
-        src: "/Assets/featured products/potato.webp",
-        name: "potato 1kg",
-        catagory: "Vegetables",
-        currentRate: 40,
-        mrp: 55
-    },
-    {
-        src: "/Assets/featured products/apple.webp",
-        name: "apple 1kg",
-        catagory: "fruit",
-        currentRate: 150,
-        mrp: 200
-    },
-    {
-        src: "/Assets/featured products/ridge-gourd.webp",
-        name: "Ridge Gourd 300g",
-        catagory: "Vegetables",
-        currentRate: 40,
-        mrp: 55
-    },
-    {
-        src: "/Assets/featured products/beetroot.webp",
-        name: "beetroot 500g",
-        catagory: "Vegetables",
-        currentRate: 60,
-        mrp: 75
-    },
-    {
-        src: "/Assets/featured products/corianderleaves.webp",
-        name: "corianderleaves",
-        catagory: "Vegetables",
-        currentRate: 10,
-        mrp: 20
-    },
-    {
-        src: "/Assets/featured products/ladiesfinger.webp",
-        name: "ladiesfinger 100g",
-        catagory: "Vegetables",
-        currentRate: 39,
-        mrp: 49
-    },
-    {
-        src: "/Assets/featured products/jamun.webp",
-        name: "jamun",
-        catagory: "fruit",
-        currentRate: 100,
-        mrp: 130
-    },
-    {
-        src: "/Assets/featured products/mushrooms.webp",
-        name: "mushrooms 400g",
-        catagory: "Vegetables",
-        currentRate: 70,
-        mrp: 100
-    },
-    {
-        src: "/Assets/featured products/curry-leaves.webp",
-        name: "Curry Leaves",
-        catagory: "Vegetables",
-        currentRate: 10,
-        mrp: 15
-    },
-    {
-        src: "/Assets/featured products/fresho-litchi.webp",
-        name: "litchi 300g",
-        catagory: "fruit",
-        currentRate: 200,
-        mrp: 240
-    },
-    {
-        src: "/Assets/featured products/garlic.webp",
-        name: "garlic 200g",
-        catagory: "Vegetables",
-        currentRate: 50,
-        mrp: 60
-    },
-    {
-        src: "/Assets/featured products/ginger.webp",
-        name: "ginger 50g",
-        catagory: "Vegetables",
-        currentRate: 40,
-        mrp: 50
-    },
-    {
-        src: "/Assets/featured products/varikatri.webp",
-        name: "varikatri 200g",
-        catagory: "Vegetables",
-        currentRate: 60,
-        mrp: 50
-    },
-    {
-        src: "/Assets/featured products/papaya.webp",
-        name: "papaya 700g",
-        catagory: "fruit",
-        currentRate: 80,
-        mrp: 100
-    },
-    {
-        src: "/Assets/featured products/brinjal.webp",
-        name: "brinjal 500g",
-        catagory: "Vegetables",
-        currentRate: 50,
-        mrp: 60
-    },
-    {
-        src: "/Assets/featured products/kiwi-green.webp",
-        name: "kiwi 500g",
-        catagory: "fruit",
-        currentRate: 150,
-        mrp: 180
-    },
-    {
-        src: "/Assets/featured products/blueberry.webp",
-        name: "blueberry 100g",
-        catagory: "fruit",
-        currentRate: 100,
-        mrp: 130
-    },
-    {
-        src: "/Assets/featured products/cabbage.webp",
-        name: "blueberry 200g",
-        catagory: "Vegetables",
-        currentRate: 50,
-        mrp: 55
-    },
-    {
-        src: "/Assets/featured products/3-roses-natural-care-tea.webp",
-        name: "3 roses 400g",
-        catagory: "tea & coffee",
-        currentRate: 250,
-        mrp: 275
-    },
-    {
-        src: "/Assets/featured products/tata-tea-kanan-devan-tea.webp",
-        name: "Tata Tea 500g",
-        catagory: "tea & coffee",
-        currentRate: 230,
-        mrp: 255
-    },
-    {
-        src: "/Assets/featured products/taj-mahal-tea.webp",
-        name: "taj-mahal 500g",
-        catagory: "tea & coffee",
-        currentRate: 350,
-        mrp: 365
-    },
-    {
-        src: "/Assets/featured products/3-roses-dust-tea.webp",
-        name: "3 roses 500g",
-        catagory: "tea & coffee",
-        currentRate: 300,
-        mrp: 305
-    },
-    {
-        src: "/Assets/featured products/bru-instant-coffee.webp",
-        name: "BRU Coffee 200g",
-        catagory: "tea & coffee",
-        currentRate: 150,
-        mrp: 165
-    },
-    {
-        src: "/Assets/featured products/tata-coffee-grand.webp",
-        name: "Tata Coffee 200g",
-        catagory: "tea & coffee",
-        currentRate: 170,
-        mrp: 195
-    },
-    {
-        src: "/Assets/featured products/sunrise-instant-coffee-chicory-mix.webp",
-        name: "sunrise Coffee 500g",
-        catagory: "tea & coffee",
-        currentRate: 370,
-        mrp: 395
-    },
-    {
-        src: "/Assets/featured products/nescafe-classic-100-pure-instant-coffee.webp",
-        name: "nescafe Coffee 400g",
-        catagory: "tea & coffee",
-        currentRate: 300,
-        mrp: 355
-    },
-    {
-        src: "/Assets/featured products/chicken-malai-tikka-juicy-fresh.webp",
-        name: "chicken 500g",
-        catagory: "meat",
-        currentRate: 300,
-        mrp: 355
-    },
-    {
-        src: "/Assets/featured products/chicken-malai-tikka-juicy-fresh.webp",
-        name: "chicken 500g",
-        catagory: "meat",
-        currentRate: 170,
-        mrp: 200
-    },
-    {
-        src: "/Assets/featured products/tandoori-chicken-juicy.webp",
-        name: "tandoori-chicken 500g",
-        catagory: "meat",
-        currentRate: 190,
-        mrp: 200
-    },
-    {
-        src: "/Assets/featured products/chicken-curry-cut-without-skin-antibiotic-residue-free.webp",
-        name: "chicken-without-skin 500g",
-        catagory: "meat",
-        currentRate: 220,
-        mrp: 240
-    },
-    {
-        src: "/Assets/featured products/chicken-hotdog-smoked-sausage.webp",
-        name: "chicken-hotdog 500g",
-        catagory: "meat",
-        currentRate: 200,
-        mrp: 220
-    },
-    {
-        src: "/Assets/featured products/mutton-boneless.webp",
-        name: "mutton 500g",
-        catagory: "meat",
-        currentRate: 500,
-        mrp: 550
-    },
-    {
-        src: "/Assets/featured products/maggi-2-minute-noodles-masala.webp",
-        name: "maggi ",
-        catagory: "snacks",
-        currentRate: 100,
-        mrp: 120
-    },
-    {
-        src: "/Assets/featured products/britannia-marie-gold-biscuits.webp",
-        name: "marie-gold ",
-        catagory: "snacks",
-        currentRate: 50,
-        mrp: 55
-    },
-    {
-        src: "https://www.bbassets.com/media/uploads/p/l/1212774-2_4-lays-potato-chips-indias-magic-masala.jpg",
-        name: "Lays ",
-        catagory: "snacks",
-        currentRate: 18,
-        mrp: 20
-    },
-
-
-
-
-]
-
-let dailyBestSellsData = [
-    {
-        src: "https://www.bbassets.com/media/uploads/p/l/10000293_17-fresho-amla.jpg",
-        name: "amla 100g",
-        saler: "Mr.food",
-        catagory: "fruit",
-        currentRate: 130,
-        mrp: 150,
-        save: 10,
-    },
-    {
-        src: "https://www.bbassets.com/media/uploads/p/l/40004992_16-fresho-sweet-corn.jpg",
-        name: "Sweet Corn 300g",
-        saler: "Mr.food",
-        catagory: "fruit",
-        currentRate: 100,
-        mrp: 115,
-        save: 15,
-    },
-    {
-        src: "https://www.bbassets.com/media/uploads/p/l/40048445_4-fresho-pear-green-imported.jpg",
-        name: "Pear Green 600g",
-        saler: "Mr.food",
-        catagory: "fruit",
-        currentRate: 150,
-        mrp: 208,
-        save: 28,
-    },
-    {
-        src: "https://www.bbassets.com/media/uploads/p/l/10000038_22-fresho-beans-broad.jpg",
-        name: "beans 500g",
-        saler: "Mr.food",
-        catagory: "vegtables",
-        currentRate: 66,
-        mrp: 87,
-        save: 24,
-    },
-    {
-        src: "https://www.bbassets.com/media/uploads/p/l/10000092_17-fresho-coconut-large.jpg",
-        name: "coconut 500g",
-        saler: "Mr.food",
-        catagory: "vegtables",
-        currentRate: 54,
-        mrp: 108,
-        save: 48,
-    },
-    {
-        src: "https://www.bbassets.com/media/uploads/p/l/10000370_20-fresho-guava.jpg",
-        name: "guava 500g",
-        saler: "Mr.food",
-        catagory: "fruit",
-        currentRate: 31,
-        mrp: 42,
-        save: 24,
-    },
-    {
-        src: "https://www.bbassets.com/media/uploads/p/l/10000168_14-fresho-banana-raw-green.jpg",
-        name: "Raw Green 500g",
-        saler: "Mr.food",
-        catagory: "vegtables",
-        currentRate: 31,
-        mrp: 42,
-        save: 24,
-    },
-    {
-        src: "https://www.bbassets.com/media/uploads/p/l/10000095_18-fresho-colocasia.jpg",
-        name: "colocasia 250g",
-        saler: "Mr.food",
-        catagory: "vegtables",
-        currentRate: 19,
-        mrp: 26,
-        save: 27,
-    },
-    {
-        src: "https://www.bbassets.com/media/uploads/p/l/10000331_16-fresho-onion-sambhar.jpg",
-        name: "Small Onion 1kg",
-        saler: "Mr.food",
-        catagory: "vegtables",
-        currentRate: 96,
-        mrp: 160,
-        save: 40,
-    },
-    {
-        src: "https://www.bbassets.com/media/uploads/p/l/50000531_8-fresho-mint-organically-grown.jpg",
-        name: "Smmint",
-        saler: "Mr.food",
-        catagory: "vegtables",
-        currentRate: 11,
-        mrp: 14,
-        save: 20,
-    },
-    {
-        src: "https://www.bbassets.com/media/uploads/p/l/40009931-2_6-parle-hide-seek-chocolate.jpg",
-        name: "Hide & Seek",
-        saler: "parle",
-        catagory: "snacks",
-        currentRate: 48,
-        mrp: 60,
-        save: 22,
-    },
-    {
-        src: "https://www.bbassets.com/media/uploads/p/l/280474_20-britannia-bourbon-chocolate-cream-biscuits.jpg",
-        name: "bourbon",
-        saler: "britannia",
-        catagory: "snacks",
-        currentRate: 60,
-        mrp: 100,
-        save: 40,
-    },
-]
-
 // Created Explore Categories Productes
+
+let exploreCategoriesData = null
+async function exploreCategoriesDatas() {
+    try {
+        let response = await fetch("explorecatergories.json")
+        if (!response.ok) {
+            throw new Error("Something Worng in JSON File")
+        }
+        exploreCategoriesData = await response.json()
+        createExploreCategories(exploreCategoriesData)
+        filterExploreCatergories(exploreCategoriesData)
+        // console.log(response);
+    }
+    catch (error) {
+        console.error(error)
+    }
+}
+exploreCategoriesDatas()
+
 
 function createExploreCategories(exploreCategoriesData) {
     let cretedAllExploreCat = exploreCategoriesData.map((exploreCat) => {
@@ -454,7 +30,6 @@ function createExploreCategories(exploreCategoriesData) {
     exploreCategoriesProducteds.innerHTML = cretedAllExploreCat
     // console.log(cretedAllExploreCat);
 }
-createExploreCategories(exploreCategoriesData)
 
 // filter Explore Catergories productes
 let exploreCategoriescateres = document.querySelector(".exploreCategoriescateres")
@@ -483,9 +58,31 @@ function filterExploreCatergories(exploreCategoriesData) {
 
     })
 }
-filterExploreCatergories(exploreCategoriesData)
+// filterExploreCatergories(exploreCategoriesData)
 
-// featuredProducts
+// create featuredProducts
+let featuredProductsData = null
+async function createFeaturedProductsDatas() {
+    try {
+        let response = await fetch("featuredProductsData.json")
+        if (!response.ok) {
+            throw new Error("Something Wrong on featuredProductsData JSON File")
+        }
+        // console.log(response);
+
+        featuredProductsData = await response.json()
+
+        createFeaturedProducts(featuredProductsData)
+        filterFeaturedProducts(featuredProductsData)
+        featuredProductslider()
+    }
+    catch (error) {
+        console.log(error);
+    }
+}
+createFeaturedProductsDatas()
+
+
 function createFeaturedProducts(featuredProductsData) {
     let createsAllFeaturesPro = featuredProductsData.map((featuredProduct) => {
         return ` <div class="featuredProduct p-2">
@@ -519,7 +116,7 @@ function createFeaturedProducts(featuredProductsData) {
     // console.log(createsAllFeaturesPro);
 
 }
-createFeaturedProducts(featuredProductsData)
+// createFeaturedProducts(featuredProductsData)
 
 function filterFeaturedProducts(featuredProductsData) {
     let allCatergoriesFeaturesPro = featuredProductsData.map((featuredProduct) => featuredProduct.catagory)
@@ -544,7 +141,7 @@ function filterFeaturedProducts(featuredProductsData) {
         e.target.classList.add("selectProducte")
     })
 }
-filterFeaturedProducts(featuredProductsData)
+// filterFeaturedProducts(featuredProductsData)
 
 // link
 let wishC = document.querySelector(".wishC")
@@ -659,25 +256,7 @@ exploreCategoriesPro.addEventListener("click", (e) => {
 
         }
         else {
-            alert("Item already in wishlist");
-            // like.className = "fa-regular fa-heart"
-            // like.style.color = "black"
-
-            // wishCountStart--
-            // wishCount.innerHTML = wishCountStart
-            //////////////
-
-            // fdProduct = e.target.parentElement.parentElement.parentElement
-            // nameEle = fdProduct.querySelector(".fdName")
-            // fpName = nameEle.textContent
-            // console.log(fpName);
-            // 
-            // let wishListName = document.querySelectorAll(".wishList h3")
-            // 
-            // 
-            //    Array.from(wishListName).filter((Wname) => {
-            // fpName!=Wname.textContent
-            // })
+            alert("Item already in wishlist");        
         }
     }
 })
@@ -711,33 +290,25 @@ function localStorageWishList() {
     let wishName = wishList.map((wish) => wish.name)
 
     let matchWishs = featuredProductName.filter(fdName => wishName.includes(fdName))
-    // console.log(matchWishs);
-
-    // function autoLike() {
-
-    //     let featuredProductdiv = document.querySelectorAll(".featuredProduct")
-    //     featuredProductdiv.forEach((fp) => {
-    //         let featuredProductName = fp.querySelector(".fdName").textContent;
-
-    //         // Check if any matchWishs name is included in the featured product name
-    //         let isMatch = matchWishs.some((wish) => featuredProductName.includes(wish));
-
-    //         if (isMatch) {
-    //             console.log(wish);
-    //         } else {
-    //             console.log("Not Match");
-    //         }
-
-    //     })
-    // }
-    // autoLike()
-
 }
 
-
-
-
-
+// dailyBestSellsData Producteds
+let dailyBestSellsData = null
+async function dailyBestSellsDatas() {
+    try {
+        let response = await fetch("dailyBestSellsData.json")
+        if (!response.ok) {
+            throw new Error("Something Wrong in dailyBestSellsData JSON File")
+        }
+        dailyBestSellsData = await response.json()
+        createdDailySells(dailyBestSellsData)
+        dailyBestSellsSlider()
+    }
+    catch (error) {
+        console.error(error)
+    }
+}
+dailyBestSellsDatas()
 
 
 
@@ -771,7 +342,7 @@ function createdDailySells(dailyBestSellsData) {
     dailyBestSellsAllProduct.innerHTML = creatsAllDailyBestSells
 
 }
-createdDailySells(dailyBestSellsData)
+// createdDailySells(dailyBestSellsData)
 
 
 // Add To Cart
@@ -835,7 +406,7 @@ function addToCartinContainer() {
                 DBSproductArray.push(DBSproductObj)
                 // add to cart container creat element 
                 let div = document.createElement("div")
-                div.className = "addToCart d-flex gap-2 align-items-center"
+                div.className = "addToCart d-flex gap-2 align-items-center px-2"
                 div.innerHTML = `
                 <div> <img
                 src="${DBSproductObj.img}"
@@ -895,7 +466,7 @@ function addToCartinContainer() {
                 DBSproductArray.push(DBSproductObj)
                 // add to cart container creat element 
                 let div = document.createElement("div")
-                div.className = "addToCart d-flex gap-2 align-items-center"
+                div.className = "addToCart d-flex gap-2 align-items-center px-2"
                 div.innerHTML = `
                 <div> <img
                 src="${DBSproductObj.img}"
@@ -965,7 +536,7 @@ function addToCartinContainer() {
                 DBSproductArray.push(DBSproductObj)
                 // add to cart container creat element 
                 let div = document.createElement("div")
-                div.className = "addToCart d-flex gap-2 align-items-center"
+                div.className = "addToCart d-flex gap-2 align-items-center px-2"
                 div.innerHTML = `
                 <div> <img
                 src="${DBSproductObj.img}"
@@ -1030,7 +601,7 @@ function addToCartinContainer() {
                 DBSproductArray.push(DBSproductObj)
                 // add to cart container creat element 
                 let div = document.createElement("div")
-                div.className = "addToCart d-flex gap-2 align-items-center"
+                div.className = "addToCart d-flex gap-2 align-items-center px-2"
                 div.innerHTML = `
                 <div> <img
                 src="${DBSproductObj.img}"
@@ -1088,7 +659,7 @@ function localStorageAddToCart() {
         // console.log(addToCartTotal);
 
         let div = document.createElement("div")
-        div.className = "addToCart d-flex gap-2 align-items-center"
+        div.className = "addToCart d-flex gap-2 align-items-center px-2"
         div.innerHTML = `
                 <div> <img
                 src="${addToCartArr.img}"
@@ -1244,106 +815,8 @@ addToCartContainer.addEventListener("click", () => {
     // console.log("change");
 
 })
-// console.log("clear");
 
-let topSellsData = [
-    {
-        src: "/Assets/featured products/papaya.webp",
-        name: "papaya 700g",
-        catagory: "fruit",
-        currentRate: 80,
-        mrp: 100
-    },
-    {
-        src: "/Assets/featured products/kiwi-green.webp",
-        name: "kiwi 500g",
-        catagory: "fruit",
-        currentRate: 150,
-        mrp: 180
-    },
-    {
-        src: "/Assets/featured products/3-roses-dust-tea.webp",
-        name: "3 roses 500g",
-        catagory: "tea & coffee",
-        currentRate: 300,
-        mrp: 305
-    },
-]
-
-let topRatedData = [
-    {
-        src: "/Assets/featured products/blueberry.webp",
-        name: "blueberry 100g",
-        catagory: "fruit",
-        currentRate: 100,
-        mrp: 130
-    }, {
-        src: "/Assets/featured products/mutton-boneless.webp",
-        name: "mutton 500g",
-        catagory: "meat",
-        currentRate: 500,
-        mrp: 550
-    },
-    {
-        src: "/Assets/featured products/maggi-2-minute-noodles-masala.webp",
-        name: "maggi ",
-        catagory: "snacks",
-        currentRate: 100,
-        mrp: 120
-    },
-]
-
-let trendingItemsData = [
-    {
-        src: "https://www.bbassets.com/media/uploads/p/l/10000370_20-fresho-guava.jpg",
-        name: "guava 500g",
-        saler: "Mr.food",
-        catagory: "fruit",
-        currentRate: 31,
-        mrp: 42,
-        save: 24,
-    },
-    {
-        src: "https://www.bbassets.com/media/uploads/p/l/40009931-2_6-parle-hide-seek-chocolate.jpg",
-        name: "Hide & Seek",
-        saler: "parle",
-        catagory: "snacks",
-        currentRate: 48,
-        mrp: 60,
-        save: 22,
-    },
-    {
-        src: "/Assets/featured products/tandoori-chicken-juicy.webp",
-        name: "tandoori-chicken 500g",
-        catagory: "meat",
-        currentRate: 190,
-        mrp: 200
-    },
-]
-
-let recentlyAddedData = [
-    {
-        src: "https://www.bbassets.com/media/uploads/p/l/1212774-2_4-lays-potato-chips-indias-magic-masala.jpg",
-        name: "Lays ",
-        catagory: "snacks",
-        currentRate: 18,
-        mrp: 20
-    },
-    {
-        src: "/Assets/featured products/chicken-curry-cut-without-skin-antibiotic-residue-free.webp",
-        name: "chicken-without-skin 500g",
-        catagory: "meat",
-        currentRate: 220,
-        mrp: 240
-    },
-    {
-        src: "/Assets/featured products/nescafe-classic-100-pure-instant-coffee.webp",
-        name: "nescafe Coffee 400g",
-        catagory: "tea & coffee",
-        currentRate: 300,
-        mrp: 355
-    },
-]
+import {topSellsData,topRatedData,trendingItemsData,recentlyAddedData} from "./topSalesData.js";
 
 let topSellsProducts = document.querySelector(".topSellsProducts")
 
@@ -1439,39 +912,42 @@ ECrightSlide.addEventListener("click", () => {
     exploreCategoriesProducteds.scrollBy({ left: 350, behavior: "smooth" })
 })
 
-let FPleftSlide = document.querySelector("#FPleftSlide")
-let FPrightSlide = document.querySelector("#FPrightSlide")
-let allfeaturedProducts = document.querySelector(".allfeaturedProducts")
-let featuredProduct = document.querySelector(".featuredProduct")
+function featuredProductslider() {
+    let FPleftSlide = document.querySelector("#FPleftSlide")
+    let FPrightSlide = document.querySelector("#FPrightSlide")
+    let allfeaturedProducts = document.querySelector(".allfeaturedProducts")
+    let featuredProduct = document.querySelector(".featuredProduct")
 
-let featuredProductWidth = featuredProduct.offsetWidth + 15
-// let featuredProductWidth = 300 + 14
+    let featuredProductWidth = featuredProduct.offsetWidth + 15
+    // let featuredProductWidth = 300 + 14
 
+    FPleftSlide.addEventListener("click", () => {
+        allfeaturedProducts.scrollBy({ left: -`${featuredProductWidth * 2}`, behavior: "smooth" })
+    })
 
-FPleftSlide.addEventListener("click", () => {
-    allfeaturedProducts.scrollBy({ left: -`${featuredProductWidth * 2}`, behavior: "smooth" })
-})
-
-FPrightSlide.addEventListener("click", () => {
-    allfeaturedProducts.scrollBy({ left: `${featuredProductWidth * 2}`, behavior: "smooth" })
-})
-
-
-let DBSleftSlide = document.querySelector("#DBSleftSlide")
-let DBSrightSlide = document.querySelector("#DBSrightSlide")
-dailyBestSellsAllProduct = document.querySelector(".dailyBestSellsAllProduct")
-let DBSproduct = document.querySelector(".DBSproduct")
-let DBSproductWidth = DBSproduct.offsetWidth + 15
-// console.log(DBSproductWidth);
+    FPrightSlide.addEventListener("click", () => {
+        allfeaturedProducts.scrollBy({ left: `${featuredProductWidth * 2}`, behavior: "smooth" })
+    })
+}
 
 
-DBSleftSlide.addEventListener("click", () => {
-    dailyBestSellsAllProduct.scrollBy({ left: `${-DBSproductWidth * 2}`, behavior: "smooth" })
-})
+function dailyBestSellsSlider() {
+    let DBSleftSlide = document.querySelector("#DBSleftSlide")
+    let DBSrightSlide = document.querySelector("#DBSrightSlide")
+    let dailyBestSellsAllProduct = document.querySelector(".dailyBestSellsAllProduct")
+    let DBSproduct = document.querySelector(".DBSproduct")
+    let DBSproductWidth = DBSproduct.offsetWidth + 15
+    // console.log(DBSproductWidth);
 
-DBSrightSlide.addEventListener("click", () => {
-    dailyBestSellsAllProduct.scrollBy({ left: `${DBSproductWidth * 2}`, behavior: "smooth" })
-})
+
+    DBSleftSlide.addEventListener("click", () => {
+        dailyBestSellsAllProduct.scrollBy({ left: `${-DBSproductWidth * 2}`, behavior: "smooth" })
+    })
+
+    DBSrightSlide.addEventListener("click", () => {
+        dailyBestSellsAllProduct.scrollBy({ left: `${DBSproductWidth * 2}`, behavior: "smooth" })
+    })
+}
 
 ////////// Expires in
 setInterval(() => {

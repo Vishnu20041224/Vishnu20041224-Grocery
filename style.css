@@ -226,7 +226,6 @@ nav {
 }
 
 
-
 .addToCartContainer>.addToCart>div:nth-child(1) {
     width: 80px;
     border: 1px solid gray;
@@ -272,6 +271,7 @@ nav {
     /* text-align: center; */
     background-color: white;
 }
+
 
 
 @media screen and (min-width:1000px) {
@@ -645,7 +645,6 @@ nav {
     top: 0px;
     right: 0px;
     cursor: pointer;
-    color: black;
 }
 
 .featuredProduct p {

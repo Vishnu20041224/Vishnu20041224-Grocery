@@ -1,0 +1,110 @@
+[
+  {
+    "src": "https://www.bbassets.com/media/uploads/p/l/10000293_17-fresho-amla.jpg",
+    "name": "amla 100g",
+    "saler": "Mr.food",
+    "catagory": "fruit",
+    "currentRate": 130,
+    "mrp": 150,
+    "save": 10
+  },
+  {
+    "src": "https://www.bbassets.com/media/uploads/p/l/40004992_16-fresho-sweet-corn.jpg",
+    "name": "Sweet Corn 300g",
+    "saler": "Mr.food",
+    "catagory": "fruit",
+    "currentRate": 100,
+    "mrp": 115,
+    "save": 15
+  },
+  {
+    "src": "https://www.bbassets.com/media/uploads/p/l/40048445_4-fresho-pear-green-imported.jpg",
+    "name": "Pear Green 600g",
+    "saler": "Mr.food",
+    "catagory": "fruit",
+    "currentRate": 150,
+    "mrp": 208,
+    "save": 28
+  },
+  {
+    "src": "https://www.bbassets.com/media/uploads/p/l/10000038_22-fresho-beans-broad.jpg",
+    "name": "beans 500g",
+    "saler": "Mr.food",
+    "catagory": "vegtables",
+    "currentRate": 66,
+    "mrp": 87,
+    "save": 24
+  },
+  {
+    "src": "https://www.bbassets.com/media/uploads/p/l/10000092_17-fresho-coconut-large.jpg",
+    "name": "coconut 500g",
+    "saler": "Mr.food",
+    "catagory": "vegtables",
+    "currentRate": 54,
+    "mrp": 108,
+    "save": 48
+  },
+  {
+    "src": "https://www.bbassets.com/media/uploads/p/l/10000370_20-fresho-guava.jpg",
+    "name": "guava 500g",
+    "saler": "Mr.food",
+    "catagory": "fruit",
+    "currentRate": 31,
+    "mrp": 42,
+    "save": 24
+  },
+  {
+    "src": "https://www.bbassets.com/media/uploads/p/l/10000168_14-fresho-banana-raw-green.jpg",
+    "name": "Raw Green 500g",
+    "saler": "Mr.food",
+    "catagory": "vegtables",
+    "currentRate": 31,
+    "mrp": 42,
+    "save": 24
+  },
+  {
+    "src": "https://www.bbassets.com/media/uploads/p/l/10000095_18-fresho-colocasia.jpg",
+    "name": "colocasia 250g",
+    "saler": "Mr.food",
+    "catagory": "vegtables",
+    "currentRate": 19,
+    "mrp": 26,
+    "save": 27
+  },
+  {
+    "src": "https://www.bbassets.com/media/uploads/p/l/10000331_16-fresho-onion-sambhar.jpg",
+    "name": "Small Onion 1kg",
+    "saler": "Mr.food",
+    "catagory": "vegtables",
+    "currentRate": 96,
+    "mrp": 160,
+    "save": 40
+  },
+  {
+    "src": "https://www.bbassets.com/media/uploads/p/l/50000531_8-fresho-mint-organically-grown.jpg",
+    "name": "Smmint",
+    "saler": "Mr.food",
+    "catagory": "vegtables",
+    "currentRate": 11,
+    "mrp": 14,
+    "save": 20
+  },
+  {
+    "src": "https://www.bbassets.com/media/uploads/p/l/40009931-2_6-parle-hide-seek-chocolate.jpg",
+    "name": "Hide & Seek",
+    "saler": "parle",
+    "catagory": "snacks",
+    "currentRate": 48,
+    "mrp": 60,
+    "save": 22
+  },
+  {
+    "src": "https://www.bbassets.com/media/uploads/p/l/280474_20-britannia-bourbon-chocolate-cream-biscuits.jpg",
+    "name": "bourbon",
+    "saler": "britannia",
+    "catagory": "snacks",
+    "currentRate": 60,
+    "mrp": 100,
+    "save": 40
+  }
+]
